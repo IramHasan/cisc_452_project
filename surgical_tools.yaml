@@ -1,0 +1,12 @@
+path: C:/Users/Harminder/Pycharm/CMPE452-Project  # Root dataset folder
+train: train/images                               # Path to training images
+val: val/images                                   # Path to validation images
+test: test/images
+
+nc: 4                                            # Number of classes
+names:                                            # Names of the classes
+  0: Scalpel
+  1: Straight Dissection Clamp
+  2: Straight Mayo Scissor
+  3: Curved Mayo Scissor
+
